@@ -1,0 +1,8 @@
+{
+  "name": "BAGRI Community Manager AI",
+  "description": "Plateforme d'intelligence marketing et de création de contenu automatisée pour la Banque Agricole du Niger (BAGRI).",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
